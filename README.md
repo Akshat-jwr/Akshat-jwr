@@ -29,7 +29,7 @@
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Akshat-jwr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-jwr&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-jwr&layout=compact&theme=radical&cache_seconds=1"/>
 </p>
 
 ---
