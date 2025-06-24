@@ -21,7 +21,7 @@
 - 🚀 Full‑stack dev: MERN, React.js, Next.js, FastAPI  
 - 🤖 ML enthusiast: Scikit‑Learn, XGBoost, NLP & RAG agents  
 - 🎯 Passion for elegant UIs, performance & clean code  
-- 📚 2nd‑year undergrad (Class of ’27)  
+- 📚 3rd‑year undergrad (Class of ’27)  
 
 ---
 
